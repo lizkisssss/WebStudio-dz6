@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* CSS змінні для кольорів */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --text-color: #212529;
+    /* Додайте інші потрібні кольори */
+  }
+  
+  /* Стилізація для елементів з використанням CSS-змінних */
+  body {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+  }
+  
+  /* Додайте інші стилі відповідно до макету WebStudio */
